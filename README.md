@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushpanda91&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushpanda91" /> </p>
 
-- 🔭 I’m currently working on **Awesome and responsive projects**
+- 🔭 I’m currently working on **Awesome and responsive front-end Web projects**
 
-- 🌱 I’m currently learning **Front-end Web development**
+- 🌱 I’m currently a **CSE Undergrad**
 
 - 📫 How to reach me **pratyushpanda530@gmail.com**
 
