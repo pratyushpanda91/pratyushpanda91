@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Awesome and responsive front-end Web projects**
 
-- 🌱 I’m currently a **CSE Undergrad**
+- 🌱 I’m currently a **CSE Undergrad student**
 
 - 📫 How to reach me **pratyushpanda530@gmail.com**
 
