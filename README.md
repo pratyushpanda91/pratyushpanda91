@@ -24,6 +24,7 @@
 <td align="center">
 <h3 align="left">Stats: </h3>
 <p align="center">
+ <img height=200px src="gitreadme.jpeg" /> 
  <img height=200px src=https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushpanda91&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
 </p>
 
