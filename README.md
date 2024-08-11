@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Awesome and responsive front-end Web projects**
 
-- 🌱 I’m currently a **CSE Undergrad student**
+- 🌱 I’m a **CSE Undergrad student**
 
 - 📫 How to reach me **pratyushpanda530@gmail.com**
 
@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/pratyushpanda91/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedin.com/in/pratyushpanda91/" height="30" width="40" /></a>
 <a href="https://instagram.com/pratyushpanda._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratyushpanda._" height="30" width="40" /></a>
+<a href="https://x.com/pandapratyush91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratyushpanda._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,8 +25,8 @@
 <td align="center">
 <h3 align="left">Stats: </h3>
 <p align="center">
- <img height=200px src="gitreadme.jpeg" /> 
- <img height=200px src=https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushpanda91&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
+ <img height=150px src="gitreadme.jpg" /> 
+ <img height=150px width="40%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushpanda91&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
 </p>
 
 
