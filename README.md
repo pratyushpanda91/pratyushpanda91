@@ -24,7 +24,7 @@
 <td align="center">
 <h3 align="left">Stats: </h3>
 <p align="center">
- <img height=200px src=https://github-readme-stats.vercel.app/api/top-langs/?username=SySagar&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
+ <img height=200px src=https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushpanda91&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
 </p>
 
 
@@ -37,10 +37,3 @@
 
 
 </table>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyushpanda91&show_icons=true&locale=en&layout=compact" alt="pratyushpanda91" /></p>
-
-*<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyushpanda91&show_icons=true&locale=en" alt="pratyushpanda91" /></p>*
-
- *<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushpanda91&" alt="pratyushpanda91" /></p>*
