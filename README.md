@@ -1,15 +1,17 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+</br>
 <h1 align="center">Hi 👋, I'm Pratyush Panda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushpanda91&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushpanda91" /> </p>
+</br>
+</br>
 
 - 🔭 I’m currently working on **Awesome and responsive front-end Web projects**
 
 - 🌱 I’m a **CSE Undergrad student**
 
 - 📫 How to reach me **pratyushpanda530@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src="https://komarev.com/ghpvc/?username=pratyushpanda91&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushpanda91" /</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pratyushpanda91/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedin.com/in/pratyushpanda91/" height="30" width="40" /></a>
 <a href="https://instagram.com/pratyushpanda._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratyushpanda._" height="30" width="40" /></a>
@@ -23,15 +25,15 @@
 
 
 <td align="center">
-<h3 align="left">Stats: </h3>
 <p align="center">
- <img height=150px src="gitreadme.jpg" /> 
- <img height=150px width="40%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushpanda91&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
+ <img src="https://gh-readme-profile.vercel.app/api?username=pratyushpanda91&theme=tokyonight" />
+<!--  <img height=150px width="40%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushpanda91&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
+</p> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratyushpanda91&theme=react" />
+  <img height=150px width="40%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushpanda91&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
+ <img height=150px width="40%"src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushpanda91&theme=tokyonight" />
 </p>
-
-
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=pratyushpanda91&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushpanda91&theme=tokyonight" />
+  
 </td>
 
 </br>
